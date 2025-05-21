@@ -1,0 +1,12 @@
+[
+  "{\"timestamp\": 1747800450, \"sensor_id\": 3, \"value\": 38.10958339372211, \"city\": \"Langley\", \"country\": \"BC\"}",
+  "{\"timestamp\": 1747800451, \"sensor_id\": 5, \"value\": 86.47944019318841, \"city\": \"Whitby\", \"country\": \"ON\"}",
+  "{\"timestamp\": 1747800452, \"sensor_id\": 5, \"value\": 55.68616192337594, \"city\": \"Whitby\", \"country\": \"ON\"}",
+  "{\"timestamp\": 1747800453, \"sensor_id\": 3, \"value\": 72.73500269331272, \"city\": \"Whitby\", \"country\": \"ON\"}",
+  "{\"timestamp\": 1747800454, \"sensor_id\": 5, \"value\": 60.816383297303844, \"city\": \"Whitby\", \"country\": \"ON\"}",
+  "{\"timestamp\": 1747800455, \"sensor_id\": 5, \"value\": 39.659161419315446, \"city\": \"Whitby\", \"country\": \"ON\"}",
+  "{\"timestamp\": 1747800456, \"sensor_id\": 5, \"value\": 26.367020153334806, \"city\": \"Langley\", \"country\": \"BC\"}",
+  "{\"timestamp\": 1747800457, \"sensor_id\": 1, \"value\": 19.305507618278938, \"city\": \"Whitby\", \"country\": \"ON\"}",
+  "{\"timestamp\": 1747800458, \"sensor_id\": 1, \"value\": 75.43290730206103, \"city\": \"Langley\", \"country\": \"BC\"}",
+  "{\"timestamp\": 1747800459, \"sensor_id\": 5, \"value\": 41.8993447126642, \"city\": \"Whitby\", \"country\": \"ON\"}"
+]
